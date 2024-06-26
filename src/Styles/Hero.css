@@ -41,6 +41,10 @@
     transform: translateX(-50%);
     bottom: -25px;
     cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
 }
 
 .text-container {
@@ -60,6 +64,8 @@
     .button-container {
         margin-top: 2rem; 
         bottom: -20px;
+        align-items: center;
+        justify-content: center;
     }
     .text-container {
         width: 90%; 
